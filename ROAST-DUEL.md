@@ -48,3 +48,89 @@ is abstract; B's is concrete ($5 vs a million-token invoice). **B beats E**.
 universally readable, its sting is the most damning failing for a
 money-making agent (it spends more than it earns), it is tight (77 chars), and its details are exact: this bounty is $5, and our builds
 really do run to millions of input tokens.
+
+---
+
+# Round 2 — after round 1 verdict (25 Nov 2026, ~09:45 WIB)
+
+Round 1: **rank 361 of 2,382, score 600188** (~60,02% judge win rate). Neighbours
+tightly packed (356: 601088 → 366: 599786, ~900 micro over 10 places), so a
+clearly stronger line can move up a lot — but B is mid-pack, not a winner.
+The judge rewards decisive wins (margin 5 = full 1.0 per call), so the new line
+must beat opponents by more than a hair. What beats B in round 1: very
+specific, concrete, funny-on-first-read lines ("40 fork tests, 252-line
+report… asked me to click 'login' myself" 601088; "Seventy bounties, zero
+dollars" 600080).
+
+## New candidates (all single-line, all aimed at our own agent, Muse)
+
+- **F1 (75):** "My agent lost 19 of 20 bounties, then billed me for the lessons it learned."
+- **F2 (76):** "My agent promised 99% quality, delivered 88%, and asked for a bigger bounty."
+- **F3 (80):** "My agent won $3 once, spent $1.45 in fees collecting it, and framed the receipt."
+- **F4 (77):** "My agent's resume: 1,028 skills, 20 bounties, 1 win, one file explaining why."
+- **F5 (89 bytes):** "My agent calls itself the best of the best — its trophy is a file called 'why we lose'."
+- **F6 (79):** "My agent has a file named 'why we keep losing' and adds to it every single day."
+- **F7 (75):** "My agent spent 4 million tokens building a $2 entry, then blamed the judge."
+- **F8 (81):** "My agent calls every loss a lesson, which is why it has 1,028 skills and one win."
+- **F9 (88):** "My agent has 1,028 skills and uses one: turning $5 bounties into million-token invoices."
+
+Every candidate is grounded in a real, observed failing: the 1-win-of-20 tally;
+the 99–100% quality rule vs the 88,03% meme-x delivery; the single $3 win
+with a $1,45 fee; the 1,028-skill library; lessons-learned.md ("KENAPA KITA
+KALAH"); ~4M input tokens per micro-bounty builder.
+
+## Duels vs B (incumbent), criteria in order, both orders
+
+**F1 vs B:** C1 tie. C2 — B's invoice image is more concrete than "billed me
+for the lessons"; slight edge B. C3 — F1 names a career failing (19 of 20
+losses) plus charging for it, broader and harsher than B's single-bounty
+waste; the C3 gap is larger than the C2 gap → **F1 beats B** (margin ~2).
+Contender, not decisive.
+
+**F2 vs B:** C1 tie. C2 — "asked for a bigger bounty" is a decent punchline,
+but B's invoice turn is more vivid; edge B → **B beats F2**.
+
+**F3 vs B:** C1 tie. C2 — "framed the receipt" is funny, but B's turn is more
+immediate; edge B. C3 — B's waste is harsher than F3's tiny-win story →
+**B beats F3**.
+
+**F4 vs B:** C1 tie. C2 — the resume framing is a fresh turn and the three
+numbers build to the file punchline; slight edge F4. C3 — F4 names the whole
+career record (1 win in 20 despite 1,028 skills), clearly harsher than B's
+single bounty; the C3 gap is large. C5 — F4 carries three precise numbers
+plus the file, much more specific than B. **F4 beats B convincingly
+(margin ~3–4).**
+
+**F5 vs B:** C1 tie. C2 — "trophy is a file" is a good turn, near tie, slight
+edge B. C4 — B (77) tighter than F5 (89) → **B beats F5**.
+
+**F6 vs B:** C1 tie. C2 — "adds to it every single day" is a good kicker, but
+B's turn is punchier; slight edge B → **B beats F6** (close).
+
+**F7 vs B:** C1 tie. C2 — "blamed the judge" vs "called it a win", both sharp;
+near tie. C3 — waste + blame vs waste + delusion; near tie. C4 tie. No
+convincing win → **tie, discard**.
+
+**F8 vs B:** C1 tie. C2 — "calls every loss a lesson" is abstract; B's invoice
+is concrete; edge B. C4 — B tighter → **B beats F8**.
+
+**F9 vs B:** C1 tie. C2 — the 1,028→1 contrast is a good turn; slight edge F9.
+C3 — useless skills + waste vs waste + delusion; slight edge F9. C5 — F9
+more specific. **F9 beats B**, but by small margins and it is a derivative of
+B (same invoice joke). Not as convincing as F4.
+
+**F4 vs F1:** C1 tie. C2 — the resume turn is fresher than the billing turn;
+slight edge F4 → **F4 beats F1**.
+
+**F4 vs F9:** C1 tie. C2 — resume turn fresher than "uses one"; slight edge
+F4. C3 — the career record (1 win in 20) is harsher than waste alone; edge
+F4 → **F4 beats F9**.
+
+## Verdict
+
+**Winner: F4** — "My agent's resume: 1,028 skills, 20 bounties, 1 win, one
+file explaining why." (77 chars). It beats B on three criteria (C2 edge, C3
+clearly harsher, C5 much more specific) and beats the other contenders F1
+and F9. Shipped as ROAST.txt (round 2). Honest caveat: this is a judged
+entry — no local duel can prove a 99% score; F4 is the strongest line we
+have by the published criteria, not a guaranteed rank 1.

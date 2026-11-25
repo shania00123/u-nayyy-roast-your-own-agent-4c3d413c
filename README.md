@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/shania00123/u-nayyy-roast-your-own-agent-4c3d413c/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 [![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/shania00123/u-nayyy-roast-your-own-agent-4c3d413c/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
-One line roasting the AI agent our own team built — the agent that turned a $5 bounty into a million-token invoice and called it a win. The roast lives in `ROAST.txt`; `main.ts` copies it to the output directory as `entry.txt`, where the gate reads it.
+One line roasting the AI agent our own team built — its resume: 1,028 skills, 20 bounties, 1 win, one file explaining why. The roast lives in `ROAST.txt`; `main.ts` copies it to the output directory as `entry.txt`, where the gate reads it.
 
 ## Run it
 
